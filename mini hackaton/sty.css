@@ -1,0 +1,43 @@
+.vv{
+    padding: 10px;
+
+    
+
+}
+.cc{
+    background-image: url(h1_hero1.jpg.webp);
+   
+    height: 670px;
+}
+.dd{
+  
+    width: 500px;
+    height: 200px;
+
+}
+.ii{
+    background-color: rgb(191, 191, 187);
+}
+.gg{
+    background-image: url(wi.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    height: 670px;
+
+}
+.vv{
+    background-color: blue;
+}
+.hh{
+    background-image: url(ban.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ff{
+    width: 100%;
+    height: 670px;
+    padding: 10px;
+    text-align: center;
+
+}
